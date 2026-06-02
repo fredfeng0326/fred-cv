@@ -1,6 +1,6 @@
 # Fred Feng · CV
 
-> 🔗 **Live Site: https://fred-cv.vercel.app/**
+> 🔗 **Live Site:** [fred-cv.vercel.app](https://fred-cv.vercel.app/)
 
 A personal CV web app built with React + Vite, deployed on Vercel.
 
@@ -27,7 +27,8 @@ npm run dev
 ## Build & Deploy
 
 ```bash
-npm run build   # outputs to /dist
+npm run build    # outputs to dist/
+npm run preview  # preview production build locally
 ```
 
 Push to GitHub — Vercel auto-deploys on every commit.
